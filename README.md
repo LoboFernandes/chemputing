@@ -1,5 +1,5 @@
 # Chemputer Machine Code
-This repo contains a chempiler library, base layer for operating compact and reconfigurable manufacturing platform for continuous-flow synthesis and formulation of APIs.
+This repo contains a chempiler library, base layer for operating compact and reconfigurable manufacturing platform for programing chemical synthesis and formulation of APIs.
 
 
 It maps platform graphs to device drivers, and provides a platform controller for a Chemputer steps execution.
