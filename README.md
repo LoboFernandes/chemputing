@@ -80,7 +80,7 @@ To run the unit tests that come with the Chempiler, we will need to install next
 
 Functionalities:
 
-Separate phases
-Set temperature
-Wait for temp
-Vent vacuum
+- Separate phases
+- Set temperature
+- Wait for temp
+- Vent vacuum
