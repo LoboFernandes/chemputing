@@ -13,10 +13,10 @@ Quality control may have In-line analysis to collect high-performance liquid chr
 
 Prerequisites
 
-Python 
-pyserial
-OpenCV
-networkx
+-Python 
+-pyserial
+-OpenCV
+-networkx
 
 
 
