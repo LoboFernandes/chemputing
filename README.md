@@ -9,3 +9,31 @@ The physical setup must be able to perform complex multistep synthesis, work-up 
 The project is designed for Synthesisable Accessibility, Issue tracking, Automatic bug reports and User feedback.
 The material in each chemputer module may be based on customized flow equipment, or retrofitted synthesis glassware, connected using chemical-resistant polytetrafluoroethylene tubing for pumps transfer reaction mixtures between each module. 
 Quality control may have In-line analysis to collect high-performance liquid chromatography coupled to mass spectrometry (HPLC-MS), NMR, infrared, UV spectroscopy and pH.
+
+
+Prerequisites
+
+Python 
+pyserial
+OpenCV
+networkx
+
+
+
+Run Tests
+To run the test suite and make sure your installation is working correctly:
+pytest tests -rf
+
+
+
+
+Project structure
+This repository contains the following subfolders and files in the chempiler folder.
+
+
+Functionalities:
+
+Separate phases
+Wait for temp
+Set temperature
+Vent vacuum
