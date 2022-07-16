@@ -68,6 +68,9 @@ git clone <git URL for this repo>
 cd Chempiler
 pip install -r requirements.txt
 pip install -e .
+```
+
+To run the unit tests that come with the Chempiler, we will need to install next in- development packages.
 
 
 ### Project structure
