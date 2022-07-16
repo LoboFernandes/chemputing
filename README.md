@@ -75,7 +75,7 @@ To run the unit tests that come with the Chempiler, we will need to install next
 
 ### Project structure
 
-- This repository will contain subfolders and files in the chempiler folder.
+This repository will contain subfolders and files in the chempiler folder.
 
 
 Functionalities:
