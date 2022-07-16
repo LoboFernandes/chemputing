@@ -1,3 +1,3 @@
 # Requirements file for the Chemputer suite
 
-# those packages SHOULD be fine with the most recent versions, if not try the ones mentioned in the comments
+# those packages SHOULD be fine with the most recent versions, if not try the ones mentioned in the Issues
