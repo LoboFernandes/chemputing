@@ -70,7 +70,7 @@ pip install -r requirements.txt
 pip install -e .
 ```
 
-To run the unit tests that come with the Chempiler, we will need to install next in- development packages.
+To run the unit tests that come with the Chempiler, we will need to install next under development packages.
 
 
 ### Project structure
