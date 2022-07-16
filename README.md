@@ -70,8 +70,7 @@ pip install -r requirements.txt
 pip install -e .
 
 
-
-## Project structure
+### Project structure
 
 - This repository will contain subfolders and files in the chempiler folder.
 
