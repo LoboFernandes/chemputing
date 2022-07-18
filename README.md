@@ -19,6 +19,7 @@ Quality control may have In-line analysis to collect high-performance liquid chr
 
 
 
+
 ## Prerequisites
 
  - Python 
@@ -47,14 +48,6 @@ c = Chempiler(
     simulation=False,
     device_modules=[ChemputerAPI]
 )
-```
-
-### Run Tests
-
-To run the test suite and make sure your installation is working correctly:
-
-```python
-pytest tests -rf
 ```
 
 ### Developing
