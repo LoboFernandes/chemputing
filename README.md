@@ -1,7 +1,7 @@
 # Chemputer Machine Code
 
 This repo will contain a chempiler library, base layer for operating compact 
-and reconfigurable manufacturing platform for programing chemical synthesis of APIs.
+and reconfigurable manufacturing platform for programming chemical synthesis of APIs.
 It will map platform graphs to device drivers, and provide a platform controller for chemputer steps execution.
 The controlers must be equipped with devices for real-time monitoring and final formulation of high purity APIs. 
 For the preparation of target molecules, commercially available starting materials may be employed.
