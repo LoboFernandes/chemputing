@@ -34,6 +34,8 @@ Quality control may have In-line analysis to collect high-performance liquid chr
 
  - To run the test suite and make sure your installation is working correctly:
  - pytest tests -rf
+
+
  
  ### Usage
 
@@ -52,9 +54,9 @@ c = Chempiler(
 
 ### Developing
 
-The following instructions are intended for Chempiler developers 
+The following instructions are intended for Chemputer developers 
 
-To make enhancements to Chempiler, you will want to install it in development mode. By doing this, you `chempiler` package is kept up-to-date with the changes that you make to the code so you won't have to re-install the package to make your changes visible.
+To make enhancements to the code, you will want to install it in development mode. By doing this, you `chempiler` package is kept up-to-date with the changes that you make to the code so you won't have to re-install the package to make your changes visible.
 
 ```bash
 git clone <git URL for this repo>
@@ -68,7 +70,7 @@ To run the unit tests that come with the Chempiler, we will need to install next
 
 ### Project structure
 
-This repository will contain subfolders and files in the chempiler folder.
+This repository will contain subfolders and files in the chemputer software folder.
 
 
 Functionalities:
