@@ -17,6 +17,8 @@ Quality control may have In-line analysis to collect high-performance liquid chr
 
 
 
+## Modules
+The module 1 will define the general syntax for chemical procedures. It is based on XML for lending itself for automated processing – either for execution of the protocol or at a later stage for mining of synthesis procedures – while being intuitive and human-readable.  
 
 
 
