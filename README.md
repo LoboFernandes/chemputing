@@ -7,7 +7,7 @@ The controlers must be equipped with devices for real-time monitoring and final 
 For the preparation of target molecules, commercially available starting materials may be employed.
 The physical setup unit must be able to perform complex multistep synthesis, work-up procedures as well as 
 purification operations such as crystallization. 
-The project is designed for Synthesisable Accessibility, Issue tracking, Automatic bug reports and User feedback.
+The project intends to be designed for Synthesisable Accessibility, Issue tracking, Automatic bug reports and User feedback.
 The material in each chemputer module may be based on customized flow equipment, or retrofitted synthesis glassware, 
 connected using chemical-resistant parts as polytetrafluoroethylene tubing for pumps transfer reaction mixtures between each module. 
 Quality control may have In-line analysis to collect high-performance liquid chromatography coupled to mass spectrometry 
